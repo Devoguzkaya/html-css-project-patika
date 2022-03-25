@@ -1,0 +1,15 @@
+#img
+
+*.jpg
+*.png
+*.jpeg
+*.tiff
+img/
+
+#videos
+
+*.mp4
+
+# log
+
+*.log
